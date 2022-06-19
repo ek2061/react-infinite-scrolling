@@ -1,3 +1,6 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d47e59a7-d793-42d8-aecc-9a9cf586366a/deploy-status)](https://app.netlify.com/sites/cerulean-rabanadas-efb86a/deploys)  
+[Url for Test](https://cerulean-rabanadas-efb86a.netlify.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
